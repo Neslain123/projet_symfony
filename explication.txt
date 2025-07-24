@@ -1,0 +1,11 @@
+**telecharger le projet github sur l'ordinateur
+-git clone "lien"
+**ce mettre sur ce projet
+-cd ...
+**créer un fichier hello.html
+-New-Item -ItemType File hello.html
+**voir le fichier créer
+-ls
+**mettre le fichier qui sera enregistré uniquement dans GIT
+en mode d'ATTENTE de commit, puisque nécessaire
+-git add hello.html
